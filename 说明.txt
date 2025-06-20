@@ -1,0 +1,4 @@
+资源文件resource_rc.py需要放到
+./src/resources/resource_rc.py
+资源文件需要RMB50Y，能接受的联系VX:
+A1397852386
